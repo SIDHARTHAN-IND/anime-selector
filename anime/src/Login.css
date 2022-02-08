@@ -1,0 +1,95 @@
+.back {
+  background-color: rgb(104, 104, 228);
+  width: 100vw;
+  height: 100vh;
+}
+.name {
+  color: white;
+  font-size: 55px;
+  font-style: italic;
+  font-weight: 650;
+  padding-top: 75px;
+  padding-left: 480px;
+}
+
+.email {
+  display: flex;
+  margin-top: 70px;
+  margin-left: 350px;
+}
+
+.email p {
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 10px;
+}
+
+.email input {
+  padding: 20px 150px;
+  margin-left: 50px;
+  border: 1px solid white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.password {
+  display: flex;
+  margin-top: 70px;
+  margin-left: 350px;
+}
+
+.password p {
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 10px;
+}
+
+.password input {
+  padding: 20px 150px;
+  margin-left: 38px;
+  border: 1px solid white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit {
+  margin-top: 50px;
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 20px 45px;
+  background-color: white;
+  margin-left: 580px;
+  margin-right: 550px;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.submit:hover {
+  color: white;
+  background-color: black;
+  border-color: white;
+  transition: 0.5s ease;
+}
+
+.tags {
+  font-size: 18px;
+  color: black;
+  margin-top: 15px;
+  margin-left: 595px;
+}
+.div {
+  display: flex;
+}
+
+.div h4 {
+  color: yellow;
+  margin-top: 15px;
+  margin-left: 15px;
+}

@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  width: 100wh;
+  height: 70px;
+  color: white;
+  background-color: rgb(104, 104, 228);
+}
+
+.log {
+  padding: 8px 16px;
+  border: 2px solid white;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}

@@ -1,0 +1,13 @@
+.anime-card img {
+  width: 90px;
+  height: 90px;
+}
+.anime-card {
+  margin-top: 10px;
+  margin-left: 50px;
+  width: 550px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+}
